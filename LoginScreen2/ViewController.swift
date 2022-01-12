@@ -31,6 +31,7 @@ class ViewController: UIViewController {
 //        googleOutlet.layer.borderWidth = 3
 //        googleOutlet.layer.borderColor = UIColor.systemRed.cgColor
         
+        print("Practice")
     }
 
 
